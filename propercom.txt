@@ -1,0 +1,99 @@
+PS REPECTED QUESTION
+PROBABILITY
+1)If two dices are rolled together, then find the probability that the total of two dice will be greater than 8 if the first dice is rolled is a 6?
+   ans)4/6=>2/3
+2)Two dice are turned together. Find the probability that the total is equals to one, seven, and less than twelve?
+   ans)0,6/36,35/36
+3)Two dice are tossed. The probability that the total score is a prime number is: 
+   ans)5/12
+4)In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?
+   ans)10/10+25 =>2/7
+5)Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even? 
+   ans)27/36 => 3/4
+6)What is the probability of getting a sum 9 from two throws of a dice?
+   ans)4/36 =>1/9
+7)Three unbiased coins are tossed. What is the probability of getting at most two heads? 
+   ans)7/8
+8)One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?
+   ans)3/13
+9)Three dice are rolled together. What is the probability as getting at least one '4'?
+   ans)Total number of ways = 6×6×6 = 216.
+        Probability of getting number ‘4’ at least one time= 1–(Probability of getting no number 4) 
+       = 1–(5/6)×(5/6)×(5/6) = 91/216
+10)Find the probability that a leap year has 52 Sundays.
+    ans)5/7
+11)Find the probability of getting a numbered card when a card is drawn from the pack of 52 cards.
+    ans)9/13
+12)A fair coin is tossed repeatedly. If head appears on the first four tosses, then the probability of appearance of tail on the fifth toss is.
+     ans)1/2
+13)Tickets numbered 1 to 30 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+     ans)14/30 =>7/15
+14)Four boys and three girls stand in queue for an interview. The probability that they stand in alternate positions is?
+     ans)1/35
+15)A card is drawn at random from a pack of 52 cards. What is the probability that it is neither a spade nor a jack?
+     ans)36/52 =>9/13
+16)The probability of getting a sum greater than 7 is?
+      ans)15/36 => 5/12 ≈ 0.4167
+
+   PERMENTATION,COMBINATION
+
+17)Among 9 consonants and 5 vowels, what number of words can be formed of 4 consonants and 3 vowels?
+            ans)6350400
+18) (A,B,C)placed in a two place
+     ans)3P2
+         =3!/(3-2)! =>6
+19)How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?
+     ans) 20
+20)In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?
+     ans)6*6 =>36
+
+                                           { Total Number of Handshakes = n × (n – 1)/2
+                                               Total Number of Handshakes = nC2 }	
+21)19 peoples are there. total number of handshakes?
+      ans)171
+22)Each of the 55 houses gives a card to every other house.The total number of cards exchanged would be:
+      ans) [Each house gives a card to 54 other houses. Since there are 55 houses, the total number of cards exchanged would be 55 * 54. 
+            However, this counts each exchange twice (once for each house involved), so we need to divide by 2 to avoid double-counting.
+            Total cards = (55 * 54) / 2
+             => 1485] answer is not accurate
+23)8 people are write exam. how many way the result shown?
+      ans) [For each person, there are 2 possibilities: pass or fail. Since there are 8 people, the total number of possible outcomes is:
+            =2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 2^8 => 256] answer is not accurate
+24)To choose 3 flavors out of 8, we can calculate it as follows:
+            ans) 56
+25) If two dice are rolled together then find the probability of getting at least one ‘3’.
+
+    ans)11/36
+                                           { circle =(n-1)! ,straight =n!}
+
+26)In how many ways can 6 people be seated at a round table?
+          ans)(6-1)! =>120
+27)In how many ways can 3 men and 3 women be seated at around table such that no two men sit together?
+          ans)3!*3! =>36
+28)In how many ways 8 ice creams can be selected from 15 identical ice creams?
+           ans) identical (same flav) so 1;
+          =>1
+29)In how many ways 8 ice creams can be selected from 15 non identical ice creams?
+             ans) 15C8 ==15C7
+30)From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there in the committee. In how many ways can it be done?
+
+     ans) 756
+31)How many 3 digit number can be formed with the digits 5, 6, 2, 3, 7 and 9 which are divisible by 5 and none of its digit is repeated?
+             ans) [last value is 5,so 1. last before filled 5. last third filled 4]
+           =1*5*4 => 20
+                                        {every number 1 to 9 counted as 1 to 1000 is 300}
+32) 1 to 1000, how many 7's are there?
+      ans) 300 
+33) In how many ways can 4 letters be posted in 6 letter boxes?
+             ans)1296
+34) nPr=value,nCr=value,find n and r?
+     ans)nPr/nCr, this value is equal to r! then factorial is cancel.
+
+          
+
+
+
+
+
+
+
